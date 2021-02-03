@@ -1,8 +1,28 @@
-### The script was created by Akram mohamed(https://github.com/Akrammohamed01)
+# **Encryption_decryption**
 
-### You choose the number of files you want to encrypt or decrypt, and you enter the files one by one, and the script encrypts them and saves them in the place you want
 
-### Note: To run the script, you must first configure gpg (Gnu privacy guard) Type this command and the tool will load-> sudo apt install gpg
+
+
+
+
+# Dependencies
+
+### Note: To run the script, you have to install gpg (Gnu privacy guard).
+
+### to install it on ubuntu type this
+
+```
+sudo apt install gpg
+```
+
+
+# Usage
+
+1. first choose if you want to encrypt or decrypt.
+1. Enter the number of files do you want to encrypt or decrypt, and enter the files one by one. 
+1. choose where do you want to save the files after encryption or decryption.
+---
+### The script was created by Akram mohamed (https://github.com/Akrammohamed01)
 
 ### Hope you will enjoy it (:
 
